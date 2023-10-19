@@ -1,6 +1,6 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://ZwellyTheKidd.io)
 <h1 align="center">Hi 👋, I'm Zwelly Sithole</h1>
-<h3 align="center">A Software developer from South Africa</h3>
+<h3 align="center">A Software Engineer from South Africa</h3>
 <img align="rigth" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwellythekidd&label=Profile%20views&color=0e75b6&style=flat" alt="zwellythekidd" /> </p>
